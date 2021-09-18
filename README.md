@@ -32,10 +32,6 @@
 
 ## Installation
 
-Clone the repo in your terminal writting:
-
-#### `$ git clone https://github.com/josh231101/EJS-Blog-Web-Page.git`
-
 In the project directory, you can run:
 
 #### `npm start`
