@@ -1,4 +1,4 @@
-# NETFLIX CLONE :tv:
+# ClickNChill :tv:
 
 <img src="https://i.ibb.co/QcdSzWY/Netflix-clone.png">
 
